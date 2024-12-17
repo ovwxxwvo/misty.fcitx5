@@ -1,4 +1,4 @@
-## Misty Colorful theme for fcitx.  
+ ## Misty Colorful theme for fcitx.  
 
 迷幻多彩主题。  
 
