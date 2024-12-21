@@ -1,21 +1,21 @@
 ## Misty colorful theme for fcitx5.  
 
 
-<div style="text-align:right;"><strong> English | </strong><a href="./README.cn.md"><strong>中文</strong></a></div>  
+<div style="text-align:right;"><strong> 中文 | </strong><a href="./README.md"><strong>English</strong></a></div>  
 
--- **misty**  
+-- **misty**  **迷幻多彩主题。**  
 ![screenshot](screenshot/misty.png)  
--- **misty-skyblue** & **misty-seagreen**  
+-- **misty-skyblue** & **misty-seagreen** | 天蓝＆海绿  
 ![screenshot](screenshot/misty-skyblue.png)  
 ![screenshot](screenshot/misty-seagreen.png)  
 
--- **misty-orange** & **misty-lemon** & **misty-grape** & **misty-peach**  
+-- **misty-orange** & **misty-lemon** & **misty-grape** & **misty-peach** | 香橙＆柠檬＆葡萄＆蜜桃  
 ![screenshot](screenshot/misty-orange.png)  
 ![screenshot](screenshot/misty-lemon.png)  
 ![screenshot](screenshot/misty-grape.png)  
 ![screenshot](screenshot/misty-peach.png)  
 
--- **misty-carambola** & **misty-blueberry**  
+-- **misty-carambola** & **misty-blueberry** | 杨桃＆蓝莓  
 ![screenshot](screenshot/misty-carambola.png)  
 ![screenshot](screenshot/misty-blueberry.png)  
 
@@ -23,8 +23,8 @@
 
 ### 📦 Installation 安装  
 
-The path of the actual config file should be modified according to your own `fcitx5`.  
-The following config file path base on `Arch Linux`.  
+实际的配置文件的路径应该根据你自己的 `fcitx5` 进行修改。  
+以下的配置文件的路经基于`Arch Linux`。  
 
 #### Install manually 手动安装  
 
@@ -78,7 +78,7 @@ TrayOutlineColor=#002020
 
 ### 📚 Suggestion 建议  
 
-Your app, Your rule. Feel free to modify the files.  
+你的应用，你说了算。不要害怕修改文件。  
 
 ----  
 
