@@ -1,10 +1,10 @@
 ## Misty colorful theme for fcitx5.  
 
 
-<div style="text-align:right;"><strong> English | </strong><a href="./README.cn.md"><strong>中文</strong></a></div>  
+**English** | [**中文**](README.cn.md)  
 
--- **misty**  
 ![screenshot](screenshot/misty.png)  
+
 -- **misty-skyblue** & **misty-seagreen**  
 ![screenshot](screenshot/misty-skyblue.png)  
 ![screenshot](screenshot/misty-seagreen.png)  

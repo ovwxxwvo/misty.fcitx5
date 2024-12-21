@@ -1,7 +1,7 @@
 ## Misty colorful theme for fcitx5.  
 
 
-<div style="text-align:right;"><strong> 中文 | </strong><a href="./README.md"><strong>English</strong></a></div>  
+**中文** | [**English**](README.md)  
 
 -- **misty**  **迷幻多彩主题。**  
 ![screenshot](screenshot/misty.png)  
