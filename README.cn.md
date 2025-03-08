@@ -48,6 +48,12 @@ ln -sf  ./misty.fcitx5/misty-seagreen   ./
 ln -sf  ./misty.fcitx5/misty-skyblue    ./  
 ```  
 
+#### Install with aur(ArchLinux) 包管理器安装  
+
+```sh  
+yay -S fcitx5-misty-theme  
+```  
+
 ----  
 
 ### 🛠️ Configuration 配置  
