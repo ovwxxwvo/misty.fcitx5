@@ -12,6 +12,3 @@ ln -sf  ./misty.fcitx5/misty-lemon     ./
 ln -sf  ./misty.fcitx5/misty-grape     ./
 ln -sf  ./misty.fcitx5/misty-peach     ./
 
-ln -sf  ./misty.fcitx5/misty-jujube    ./
-ln -sf  ./misty.fcitx5/misty-mulberry  ./
-

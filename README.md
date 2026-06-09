@@ -3,21 +3,17 @@
 
 **English** | [**中文**](README.cn.md)  
 
-![screenshot](screenshot/misty.png)  
-
--- **misty-skyblue** & **misty-seagreen**  
-![screenshot](screenshot/misty-skyblue.png)  
-![screenshot](screenshot/misty-seagreen.png)  
+![screenshot](https://github.com/ovwxxwvo/img-bed/raw/main/05_fcitx5/misty-fcitx5.png)  
 
 -- **misty-orange** & **misty-lemon** & **misty-grape** & **misty-peach**  
-![screenshot](screenshot/misty-orange.png)  
-![screenshot](screenshot/misty-lemon.png)  
-![screenshot](screenshot/misty-grape.png)  
-![screenshot](screenshot/misty-peach.png)  
+![screenshot](https://github.com/ovwxxwvo/img-bed/raw/main/05_fcitx5/misty-fcitx5-orange.png)  
+![screenshot](https://github.com/ovwxxwvo/img-bed/raw/main/05_fcitx5/misty-fcitx5-lemon.png)  
+![screenshot](https://github.com/ovwxxwvo/img-bed/raw/main/05_fcitx5/misty-fcitx5-grape.png)  
+![screenshot](https://github.com/ovwxxwvo/img-bed/raw/main/05_fcitx5/misty-fcitx5-peach.png)  
 
--- **misty-jujube** & **misty-mulberry**  
-![screenshot](screenshot/misty-jujube.png)  
-![screenshot](screenshot/misty-mulberry.png)  
+-- **misty-skyblue** & **misty-seagreen**  
+![screenshot](https://github.com/ovwxxwvo/img-bed/raw/main/05_fcitx5/misty-fcitx5-skyblue.png)  
+![screenshot](https://github.com/ovwxxwvo/img-bed/raw/main/05_fcitx5/misty-fcitx5-seagreen.png)  
 
 ----  
 
@@ -44,8 +40,6 @@ ln -sf  ./misty.fcitx5/misty-orange    ./
 ln -sf  ./misty.fcitx5/misty-lemon     ./  
 ln -sf  ./misty.fcitx5/misty-grape     ./  
 ln -sf  ./misty.fcitx5/misty-peach     ./  
-ln -sf  ./misty.fcitx5/misty-jujube    ./  
-ln -sf  ./misty.fcitx5/misty-mulberry  ./  
 ```  
 
 #### Install with aur(ArchLinux) 包管理器安装  
